@@ -8,7 +8,7 @@ import preguntas
 
 
 def test_01():
-    assert preguntas.pregunta_01() == 214
+    assert preguntas.pregunta_01() == 21
 
 
 def test_02():
